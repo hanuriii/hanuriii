@@ -15,7 +15,7 @@
 
 #### 📫 Contact
 <a href="hanuri714@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&">
+  <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=hanuri714@gmail.com">
 </a>
 <a href="https://www.linkedin.com/in/hanuriii/">
   <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
