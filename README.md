@@ -16,9 +16,10 @@
 
 
 #### 📫 Contact
+<a href="https://github.com/hanuriii"/><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/hanuriii/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:hanuri714@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/hanuriii"/><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://hanuriiizz.tistory.com/"/><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
 <br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&section=footer)
