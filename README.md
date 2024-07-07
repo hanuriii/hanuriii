@@ -1,29 +1,22 @@
-## Hi there 👋
+<div align="left"> 
 
-<div align="center"> 
-
-![header](https://capsule-render.vercel.app/api?type=waving)
-
-#### 🌱 Tech Stack
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
-<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
-
-
-#### 📫 Contact
-<a href="https://github.com/hanuriii"/><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/hanuriii/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:hanuri714@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://hanuriiizz.tistory.com/"/><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
+##### ⛅️ It's Me
+<a href="https://hanuriiizz.tistory.com/"/><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/hanuriii/"><img src="https://img.shields.io/badge/Hanul Kim-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="mailto:hanuri714@gmail.com"><img src="https://img.shields.io/badge/hanuri714@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&section=footer)
+##### 🌱 Platforms & Languages
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white">
+<br><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"> 
+<img src="https://img.shields.io/badge/unity-FFFFFF?style=flat-square&logo=unity&logoColor=black">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> 
 
 </div>
 
