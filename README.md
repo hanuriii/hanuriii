@@ -1,5 +1,3 @@
-<div align="left"> 
-
 ### 👩🏻‍💻 My Coding Journey
 <p>
   <a href="https://hanuriiizz.tistory.com/"/><img src="https://img.shields.io/badge/hanuriiizz-D80074?style=flat-square&logo=spreadshirt&logoColor=white"></a>
@@ -24,7 +22,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"> 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> 
 </p>
-</div>
 
 <!--
 **hanuriii/hanuriii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
